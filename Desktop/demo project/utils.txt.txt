@@ -1,1 +1,1 @@
-utility fun of version1
+utility fun of version2
